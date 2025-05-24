@@ -9,19 +9,18 @@ Features:
 5. Beginner-friendly code
 ________
 Technologies Used:
-1. Java (JDK 11+)
-2. Scanner (for user input)
-3. 2D Arrays
-4. Loops & Conditionals
+1. Java
+2. 2D Arrays
+3. Loops & Conditionals
 ________
 How to Run:
 1. Clone the repo
-   git clone https://github.com/your-username/java-tic-tac-toe.git
-   cd java-tic-tac-toe
+  - git clone https://github.com/your-username/java-tic-tac-toe.git
+  - cd java-tic-tac-toe
 2. Compile and run
-   javac TicTacToe.java
-   java TicTacToe
-Or open the project in VS Code and press Run.
+  - javac TicTacToe.java
+  - java TicTacToe
+3. Open the project in VS Code and press Run.
 ________
 Preview:
 
