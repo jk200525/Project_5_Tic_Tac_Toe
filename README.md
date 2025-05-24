@@ -1,6 +1,4 @@
-Java Tic Tac Toe
-
-A simple, console-based Tic Tac Toe game written in Java. Two players take turns marking X or O on a 3×3 board until someone wins or the game ends in a draw.
+Tic Tac Toe - A simple, console-based Tic Tac Toe game written in Java. Two players take turns marking X or O on a 3×3 board until someone wins or the game ends in a draw.
 ________
 Features:
 1. Two-player mode
