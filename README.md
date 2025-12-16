@@ -14,7 +14,7 @@ Technologies Used:
 ________
 How to Run:
 1. Clone the repo
-  - git clone https://github.com/your-username/java-tic-tac-toe.git
+  - git clone https://github.com/jk200525/Project_5_Tic_Tac_Toe.git
   - cd java-tic-tac-toe
 2. Compile and run
   - javac TicTacToe.java
